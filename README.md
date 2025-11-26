@@ -6,7 +6,7 @@ This Python-based maze game is a terminal application with optional Raspberry Pi
 
 ## Requirements
 
-- Python 3.6+ (uses standard libraries: `os`, `copy`, `json`, `hashlib`, `time`, `collections.deque`).
+- Python 3+ (uses standard libraries: `os`, `copy`, `json`, `hashlib`, `time`, `collections.deque`).
 - For SenseHAT: Install `sense-hat` via pip (requires Raspberry Pi).
 - Maze files: `.txt` or `.csv` (e.g., lines like `AOX\nOXX\nOBX`).
 - Leaderboard: Stored in `data.json`.
